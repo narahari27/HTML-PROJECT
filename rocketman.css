@@ -77,3 +77,12 @@
 .btn{
     padding: 5px;
 }
+.malsia{
+    position: relative;
+    top: 230px;
+    left: 143px;
+}
+.body-task{
+    margin: auto;
+    overflow-x: hidden;
+}
