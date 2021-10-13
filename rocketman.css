@@ -86,3 +86,12 @@
     margin: auto;
     overflow-x: hidden;
 }
+.fonti-head{
+    font-family: proxima-nova,sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.title-head{
+    margin-top: 115px;
+    margin-bottom: 115px;
+}
