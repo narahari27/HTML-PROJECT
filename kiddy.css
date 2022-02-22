@@ -12,3 +12,29 @@
 .site-nav-bar .site-logo a {
     /* color: #fff; */
 }
+.map-icon{
+    margin-top: 10px;
+    margin-right: 10px;   
+}
+.map-icon svg {
+    fill: #fdb62f;
+}
+.icon-cloc-o{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.icon-cloc-o svg {
+    fill: #fd4d40;
+}
+.mr-auto{
+    margin-right: auto !important;
+}
+.ml-auto{
+    margin-left: auto !important;
+}
+.mac{
+    align-items: center;
+}
+.mr-5{
+    margin-right: 3rem ;
+}
